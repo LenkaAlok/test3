@@ -10,7 +10,7 @@ public class Test3Application {
 boolean isSub=true;
          int x=100;
               char ch='x';
-		int x=100;
+		int y=200;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
