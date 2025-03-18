@@ -10,6 +10,7 @@ public class Test3Application {
 boolean isSub=true;
          int x=100;
               char ch='x';
+		float=10.3f;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
