@@ -10,13 +10,20 @@ public class Test3Application {
 boolean isSub=true;
          int x=100;
               char ch='x';
-		float=10.3f;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
 }
+<<<<<<< Updated upstream
 //##Error####
 //fix it
+=======
+//feature 1
+//login code with otp
+//75 %
+####this above line will be stored in a hidden git area + temp.
+
+>>>>>>> Stashed changes
 
 
 // access key--AKIA4MI2JVFZNZCW6QFT
